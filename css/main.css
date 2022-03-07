@@ -1,7 +1,7 @@
 html {
   box-sizing: border-box;
   background-color: #f2f1ed;
-  font-family: 'Patua One', sans-serif;
+  font-family: "Patua One", sans-serif;
   line-height: 1.5;
 }
 
@@ -12,7 +12,7 @@ html {
 }
 
 img {
-  width:100%;
+  width: 100%;
 }
 
 h1, h2 {
@@ -48,5 +48,5 @@ nav a:hover {
 }
 
 .intro {
- font-size: 1rem;
+  font-size: 1rem;
 }
